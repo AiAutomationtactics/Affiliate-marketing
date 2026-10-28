@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "updated": "2026-10-28",
+  "track_last_created": "affiliate",
+  "next_preferred_track": "immigration",
+  "affiliate": [
+    {
+      "brand": "ConsentRoute Studio",
+      "slug": "consentroute-studio",
+      "concept": "Permission-first affiliate campaign fieldbook with browser-local ten-point audit scorecard",
+      "date": "2026-10-28",
+      "pages": 9,
+      "source_package": "ConsentRoute_Studio_2026-10-28.zip",
+      "deployed": false,
+      "indexed": false,
+      "verified_referral": "https://leadsleap.com/?r=awanraheel0",
+      "sendsteed_list": "71338",
+      "source_sha256": "6953f9a4ef8cd126",
+      "status": "Source generated and locally validated; deployment blocked pending commercial hosting and verified domain/contact"
+    }
+  ],
+  "immigration": []
+}
