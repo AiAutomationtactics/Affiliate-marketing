@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "updated": "2026-10-28",
-  "track_last_created": "affiliate",
-  "next_preferred_track": "immigration",
+  "track_last_created": "immigration",
+  "next_preferred_track": "affiliate",
   "affiliate": [
     {
       "brand": "ConsentRoute Studio",
@@ -58,6 +58,30 @@
       "sendsteed_list": "131455",
       "source_sha256": "b24cc0d5e2f5389adccd4b4a6c6d0ebd39f50557db4f593e00aa0f667c1d6f7a",
       "status": "12-page source ZIP locally validated. Safe noindex preview; production requires verified HTTPS domain, public editorial contact, authorized hosting, live form verification and Search Console write access."
+    },
+    {
+      "brand": "MorrowDock",
+      "slug": "morrowdock",
+      "concept": "Independent newcomer first-month settlement navigation and private browser-only 30-day checklist with local progress, CSV export and printable appointment question cards",
+      "primary_audience": "People worldwide planning to arrive in Canada and recently arrived households navigating basic settlement systems",
+      "date": "2026-10-28",
+      "pages": 17,
+      "source_package": "MorrowDock_2026-10-28.zip",
+      "source_sha256": "2d4637b13ed2183b650683e9991fea99a486d44a77178a8960463e1bb630a60d",
+      "deployed": false,
+      "indexed": "unknown",
+      "sitemap_submitted": false,
+      "sendsteed_list": "131455",
+      "verified_sources": [
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/settle-canada/newcomer-services/eligibility.html",
+        "https://www.canada.ca/en/employment-social-development/services/sin/apply.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/settle-canada/health-care/universal-system.html",
+        "https://www.canada.ca/en/financial-consumer-agency/services/industry/laws-regulations/low-cost-no-cost-accounts.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/settle-canada/housing/renting.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/settle-canada/education/enroll.html"
+      ],
+      "uniqueness": "No obvious current exact-name search match on 2026-10-28; not trademark clearance. Distinct from PresenceLedger North citizenship travel-record reconciliation; settlement-first, household planning, privacy-first 15-task local checklist and appointment questions.",
+      "status": "17-page source ZIP generated, static link and JavaScript syntax checked; production sitemap builder validated for 17 canonical URLs in isolated test. Noindex preview; no live domain, hosting authorization, approved editorial contact, live SendSteed test or Search Console write integration. No deployment."
     }
   ]
 }
