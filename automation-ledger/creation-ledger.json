@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "updated": "2026-10-28",
-  "track_last_created": "affiliate",
-  "next_preferred_track": "immigration",
+  "track_last_created": "immigration",
+  "next_preferred_track": "affiliate",
   "affiliate": [
     {
       "brand": "ConsentRoute Studio",
@@ -19,5 +19,23 @@
       "status": "Source generated and locally validated; deployment blocked pending commercial hosting and verified domain/contact"
     }
   ],
-  "immigration": []
+  "immigration": [
+    {
+      "brand": "PresenceLedger North",
+      "slug": "presenceledger-north",
+      "concept": "Independent Canadian citizenship travel-record reconciliation and browser-local CSV worksheet; official IRCC calculator remains authoritative",
+      "date": "2026-10-28",
+      "pages": 12,
+      "source_package": "PresenceLedger_North_2026-10-28.zip",
+      "deployed": false,
+      "indexed": "unknown",
+      "verified_sources": [
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-citizenship/adult-minor/who.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-citizenship/adult-minor/how/physical-presence.html"
+      ],
+      "sendsteed_list": "131455",
+      "source_sha256": "b24cc0d5e2f5389adccd4b4a6c6d0ebd39f50557db4f593e00aa0f667c1d6f7a",
+      "status": "12-page source ZIP locally validated. Safe noindex preview; production requires verified HTTPS domain, public editorial contact, authorized hosting, live form verification and Search Console write access."
+    }
+  ]
 }
