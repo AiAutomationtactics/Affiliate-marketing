@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "track": "affiliate",
+  "updated": "2026-10-28",
+  "entries": [
+    {
+      "brand": "ConsentRoute Studio",
+      "slug": "consentroute-studio",
+      "concept": "Permission-first affiliate campaign fieldbook with browser-local ten-point audit scorecard",
+      "date": "2026-10-28",
+      "pages": 9,
+      "source_package": "ConsentRoute_Studio_2026-10-28.zip",
+      "deployed": false,
+      "indexed": false,
+      "verified_referral": "https://leadsleap.com/?r=awanraheel0",
+      "sendsteed_list": "71338",
+      "source_sha256": "6953f9a4ef8cd126",
+      "status": "Source generated and locally validated; deployment blocked pending commercial hosting and verified domain/contact"
+    },
+    {
+      "brand": "SourceSail Lab",
+      "slug": "sourcesail-lab",
+      "concept": "Independent campaign attribution and UTM naming field guide for solo affiliate publishers, with a browser-only campaign URL builder and CSV journal",
+      "primary_audience": "Independent small-scale affiliate content publishers needing ethical source attribution and campaign interpretation",
+      "date": "2026-10-28",
+      "pages": 12,
+      "source_package": "SourceSail_Lab_2026-10-28.zip",
+      "source_sha256": "a24c943bb864da9f8f4c358a5f412d640674c01881cfb985790ff304e15e5868",
+      "deployed": false,
+      "indexed": "unknown",
+      "verified_referral": "https://leadsleap.com/?r=awanraheel0",
+      "sendsteed_list": "71338",
+      "verified_sources": [
+        "https://support.google.com/analytics/answer/10917952?hl=en",
+        "https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking",
+        "https://developers.google.com/search/docs/fundamentals/creating-helpful-content",
+        "https://developers.google.com/search/docs/crawling-indexing/sitemaps/build-sitemap"
+      ],
+      "uniqueness": "No obvious exact-name search match on 2026-10-28; not trademark clearance. Distinct from ConsentRoute Studio permission-first audit scorecard and existing traffic/sales landing pages.",
+      "status": "12-page source ZIP locally validated; browser visual test blocked by runtime policy. Noindex preview. Deployment blocked by commercial hosting eligibility, verified HTTPS domain, approved public editorial email, SendSteed live form verification and Search Console write authorization."
+    },
+    {
+      "brand": "Offerbraid",
+      "slug": "offerbraid",
+      "concept": "Evidence-first affiliate offer comparison and reader-fit workbench with per-claim evidence statuses and browser-only Markdown export",
+      "primary_audience": "Independent affiliate publishers reviewing digital software offers without fabricated testing or earnings claims",
+      "date": "2026-10-28",
+      "pages": 12,
+      "source_package": "Offerbraid_2026-10-28.zip",
+      "source_sha256": "d4b5602e4809d59192d7dc99fabd44553cfbcc2ea5559b42d185fab3064cb4e5",
+      "github_manifest": "https://github.com/affiliaterepo/affiliate/blob/site/offerbraid-20261028/sites/offerbraid/README.md",
+      "deployed": false,
+      "indexed": "unknown",
+      "sitemap_submitted": false,
+      "verified_referral": "https://leadsleap.com/?r=awanraheel0",
+      "sendsteed_list": "71338",
+      "verified_sources": [
+        "https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking",
+        "https://developers.google.com/search/docs/fundamentals/creating-helpful-content",
+        "https://developers.google.com/search/docs/crawling-indexing/sitemaps/build-sitemap",
+        "https://leadsleap.com/?r=awanraheel0"
+      ],
+      "uniqueness": "No exact Offerbraid web search match on 2026-10-28; not trademark clearance. Different audience task and tool from ConsentRoute Studio, SourceSail Lab, LeadG and existing traffic funnels.",
+      "status": "12-page ZIP generated and static validated, JavaScript syntax checked, 12-URL production sitemap generator test passed. Browser visual test unavailable; SendSteed delivery untested. Noindex preview; commercial hosting, verified HTTPS domain, public contact, live form test and Search Console write authorization outstanding."
+    }
+  ]
+}
