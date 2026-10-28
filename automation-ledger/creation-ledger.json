@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "updated": "2026-10-28",
-  "track_last_created": "affiliate",
-  "next_preferred_track": "immigration",
+  "track_last_created": "immigration",
+  "next_preferred_track": "affiliate",
   "affiliate": [
     {
       "brand": "ConsentRoute Studio",
@@ -106,6 +106,30 @@
       ],
       "uniqueness": "No obvious current exact-name search match on 2026-10-28; not trademark clearance. Distinct from PresenceLedger North citizenship travel-record reconciliation; settlement-first, household planning, privacy-first 15-task local checklist and appointment questions.",
       "status": "17-page source ZIP generated, static link and JavaScript syntax checked; production sitemap builder validated for 17 canonical URLs in isolated test. Noindex preview; no live domain, hosting authorization, approved editorial contact, live SendSteed test or Search Console write integration. No deployment."
+    },
+    {
+      "brand": "ProgramTrace",
+      "slug": "programtrace",
+      "concept": "Independent evidence-first Canadian post-secondary study offer research fieldbook with browser-tab-only 12-checkpoint school/program workbench, TXT export and official IRCC source links",
+      "primary_audience": "Prospective international students comparing specific Canadian post-secondary offers before tuition commitments",
+      "date": "2026-10-28",
+      "pages": 17,
+      "source_package": "ProgramTrace_2026-10-28.zip",
+      "source_sha256": "828242934488b63587c2ace6b32a1a8f3d0a7b6b45f80fe66b3360d77fe178cd",
+      "deployed": false,
+      "indexed": "unknown",
+      "sitemap_submitted": false,
+      "sendsteed_list": "131455",
+      "verified_sources": [
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/prepare/designated-learning-institutions-list.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/eligibility.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/eligibility/field-of-study.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/get-documents/provincial-attestation-letter.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/get-documents/financial-support.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/protect-fraud/study-permit-fraud.html"
+      ],
+      "uniqueness": "No obvious exact-name search match found on 2026-10-28; not trademark clearance. Distinct from PresenceLedger North citizenship presence reconciliation and MorrowDock newcomer first-month settlement checklist.",
+      "status": "17-page ZIP generated; 443 internal links checked, JS syntax and 17-URL production sitemap builder passed. Browser test blocked by runtime browser policy. Noindex preview. No authorized domain/host or public editorial email; SendSteed live delivery and Search Console write access unverified; no deployment."
     }
   ]
 }
