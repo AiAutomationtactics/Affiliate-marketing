@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "updated": "2026-10-28",
-  "track_last_created": "immigration",
-  "next_preferred_track": "affiliate",
+  "track_last_created": "affiliate",
+  "next_preferred_track": "immigration",
   "affiliate": [
     {
       "brand": "ConsentRoute Studio",
@@ -17,6 +17,28 @@
       "sendsteed_list": "71338",
       "source_sha256": "6953f9a4ef8cd126",
       "status": "Source generated and locally validated; deployment blocked pending commercial hosting and verified domain/contact"
+    },
+    {
+      "brand": "SourceSail Lab",
+      "slug": "sourcesail-lab",
+      "concept": "Independent campaign attribution and UTM naming field guide for solo affiliate publishers, with a browser-only campaign URL builder and CSV journal",
+      "primary_audience": "Independent small-scale affiliate content publishers needing ethical source attribution and campaign interpretation",
+      "date": "2026-10-28",
+      "pages": 12,
+      "source_package": "SourceSail_Lab_2026-10-28.zip",
+      "source_sha256": "a24c943bb864da9f8f4c358a5f412d640674c01881cfb985790ff304e15e5868",
+      "deployed": false,
+      "indexed": "unknown",
+      "verified_referral": "https://leadsleap.com/?r=awanraheel0",
+      "sendsteed_list": "71338",
+      "verified_sources": [
+        "https://support.google.com/analytics/answer/10917952?hl=en",
+        "https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking",
+        "https://developers.google.com/search/docs/fundamentals/creating-helpful-content",
+        "https://developers.google.com/search/docs/crawling-indexing/sitemaps/build-sitemap"
+      ],
+      "uniqueness": "No obvious exact-name search match on 2026-10-28; not trademark clearance. Distinct from ConsentRoute Studio permission-first audit scorecard and existing traffic/sales landing pages.",
+      "status": "12-page source ZIP locally validated; browser visual test blocked by runtime policy. Noindex preview. Deployment blocked by commercial hosting eligibility, verified HTTPS domain, approved public editorial email, SendSteed live form verification and Search Console write authorization."
     }
   ],
   "immigration": [
