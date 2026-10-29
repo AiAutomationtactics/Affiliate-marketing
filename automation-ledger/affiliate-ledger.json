@@ -108,7 +108,8 @@
         "https://developers.google.com/search/docs/crawling-indexing/sitemaps/build-sitemap"
       ],
       "uniqueness": "Distinct from ConsentRoute consent audits, SourceSail UTM attribution, Offerbraid offer comparisons, BriefSheet website briefs and immigration projects. No obvious exact BidTidy active marketing brand in preliminary search; not trademark clearance.",
-      "status": "12-page source ZIP built, Python/JS syntax and internal links validated, 12-URL production sitemap/canonicals tested. Headless browser visual check timed out. Preview noindex. No authorized commercial-permitted domain/host, SendSteed delivery or Search Console write access; not deployed."
+      "status": "12-page source ZIP built, Python/JS syntax and internal links validated, 12-URL production sitemap/canonicals tested. Headless browser visual check timed out. Preview noindex. No authorized commercial-permitted domain/host, SendSteed delivery or Search Console write access; not deployed.",
+      "github_manifest": "https://github.com/affiliaterepo/affiliate/blob/site/bidtidy-20261028-2356/sites/bidtidy/README.md"
     }
   ]
 }
