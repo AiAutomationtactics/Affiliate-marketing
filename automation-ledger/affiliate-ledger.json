@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "track": "affiliate",
-  "updated": "2026-10-28",
+  "updated": "2026-10-29",
   "entries": [
     {
       "brand": "ConsentRoute Studio",
@@ -110,6 +110,29 @@
       "uniqueness": "Distinct from ConsentRoute consent audits, SourceSail UTM attribution, Offerbraid offer comparisons, BriefSheet website briefs and immigration projects. No obvious exact BidTidy active marketing brand in preliminary search; not trademark clearance.",
       "status": "12-page source ZIP built, Python/JS syntax and internal links validated, 12-URL production sitemap/canonicals tested. Headless browser visual check timed out. Preview noindex. No authorized commercial-permitted domain/host, SendSteed delivery or Search Console write access; not deployed.",
       "github_manifest": "https://github.com/affiliaterepo/affiliate/blob/site/bidtidy-20261028-2356/sites/bidtidy/README.md"
+    },
+    {
+      "brand": "InquiryMap",
+      "slug": "inquirymap",
+      "concept": "Browser-only, human-reviewed inbound service-enquiry reply workbench with field guides for pricing, timelines, qualification, declines, follow-up and email consent",
+      "primary_audience": "Freelancers and small service teams responding to inbound prospective client questions",
+      "date": "2026-10-29",
+      "pages": 16,
+      "source_package": "InquiryMap_2026-10-29.zip",
+      "source_sha256": "a06693dcf9b3c94939aba59d05e6f8044576385861585896c64945ab427963c2",
+      "deployed": false,
+      "indexed": "unknown",
+      "sitemap_submitted": false,
+      "sendsteed_list": "131455",
+      "verified_referral": "https://leadsleap.com/?r=awanraheel0",
+      "verified_sources": [
+        "https://web.crtc.gc.ca/eng/internet/anti/reg.htm",
+        "https://www.crtc.gc.ca/eng/com500/info.htm",
+        "https://www.ftc.gov/business-guidance/resources/can-spam-act-compliance-guide-business",
+        "https://developers.google.com/search/docs/fundamentals/creating-helpful-content"
+      ],
+      "uniqueness": "Distinct from ConsentRoute consent audit, SourceSail attribution, Offerbraid product comparison, BriefSheet client website brief and BidTidy paid-ad scenario tool. Preliminary exact-name search found no obvious match; not trademark clearance.",
+      "status": "16-page source ZIP, noindex preview, 352 internal references checked in each of preview/production tests, JS syntax passed, sitemap/canonicals tested; Chromium visual test timed out. Hosting/domain, live SendSteed delivery, publisher mailing address and Search Console write access unverified; not deployed."
     }
   ]
 }
