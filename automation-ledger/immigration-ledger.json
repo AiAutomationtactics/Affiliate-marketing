@@ -117,6 +117,29 @@
       ],
       "uniqueness": "No obvious exact PermitNook public name search match; compared with connected GitHub creation ledgers and two Vercel project inventories. Not trademark clearance. Different from citizenship, settlement, study and sponsorship tools.",
       "status": "13-page ZIP created; 270 internal links and unique titles/descriptions validated; JS/Python syntax and 13 production canonical/sitemap URLs pass. Browser test blocked by administrator; no live SendSteed delivery test. No assigned authorized host/domain, no deployment, no Search Console submission; preview noindex."
+    },
+    {
+      "brand": "PRPapers",
+      "slug": "prpapers",
+      "concept": "Independent post-Express Entry invitation document research and browser-tab-only 14-checkpoint review with optional illustrative 60-day date reference and TXT export; IRCC account remains authoritative",
+      "primary_audience": "Worldwide Express Entry applicants who have received an invitation to apply and need to organize evidence before submission",
+      "date": "2026-10-29",
+      "pages": 17,
+      "source_package": "PRPapers_2026-10-29.zip",
+      "source_sha256": "6389ec8a6ebbd0944f44969bd2afe5bc4bfac9aa3394f8068f99872233a1f7d7",
+      "deployed": false,
+      "indexed": "unknown",
+      "sitemap_submitted": false,
+      "sendsteed_list": "131455",
+      "verified_sources": [
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/apply-permanent-residence.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/police-certificates.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/proof-funds.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/language-test.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/medical-police/medical-exams/requirements-permanent-residents.html"
+      ],
+      "uniqueness": "Distinct from existing citizenship travel reconciliation, newcomer settlement, study offer verification, family sponsorship and employer-specific work permit sites. Preliminary exact brand search did not reveal obvious exact immigration match; not trademark clearance.",
+      "status": "17-page noindex source ZIP locally validated; 538 internal/external link references checked, unique title/meta, canonical/JSON-LD and 17 production sitemap URLs tested. Chromium browser navigation blocked by environment. No authorized domain/host, live SendSteed submission or Search Console WRITE access; no deployment."
     }
   ]
 }
