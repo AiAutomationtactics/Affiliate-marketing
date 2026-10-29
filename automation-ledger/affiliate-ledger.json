@@ -133,6 +133,29 @@
       ],
       "uniqueness": "Distinct from ConsentRoute consent audit, SourceSail attribution, Offerbraid product comparison, BriefSheet client website brief and BidTidy paid-ad scenario tool. Preliminary exact-name search found no obvious match; not trademark clearance.",
       "status": "16-page source ZIP, noindex preview, 352 internal references checked in each of preview/production tests, JS syntax passed, sitemap/canonicals tested; Chromium visual test timed out. Hosting/domain, live SendSteed delivery, publisher mailing address and Search Console write access unverified; not deployed."
+    },
+    {
+      "brand": "AltBench",
+      "slug": "altbench",
+      "concept": "Browser-only image accessibility and image transfer-weight inventory workbench with CSV export, illustrative HTML snippet, and purpose-first original publishing guides",
+      "primary_audience": "Small website publishers and affiliate educators managing product screenshots, informative graphics, responsive images and accessible alternatives",
+      "date": "2026-10-29",
+      "pages": 15,
+      "source_package": "AltBench_2026-10-29.zip",
+      "source_sha256": "eadc66e34ac5a6e8f9862b31e5f682ce797ae41321c508408d0c37a4cae734fd",
+      "deployed": false,
+      "indexed": "unknown",
+      "sitemap_submitted": false,
+      "sendsteed_list": "131455",
+      "verified_referral": "https://leadsleap.com/?r=awanraheel0",
+      "verified_sources": [
+        "https://www.w3.org/WAI/tutorials/images/",
+        "https://developers.google.com/search/docs/appearance/google-images/",
+        "https://web.dev/learn/design/responsive-images",
+        "https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking"
+      ],
+      "uniqueness": "Compared with affiliate and immigration ledgers, connected GitHub repositories and two Vercel project inventories. Distinct image semantics and asset planning from attribution, offer review, website briefs, ad budgeting and client replies. Limited exact-name search found no obvious direct commercial image-planning match; trademark/domain availability not established.",
+      "status": "15-page preview ZIP generated; 173 internal links checked per build; 15 production canonical/sitemap URLs validated; JavaScript/Python syntax pass. Browser visual test blocked by environment administrator. Direct SendSteed delivery untested. No authorized commercial hosting, verified HTTPS domain or Search Console write access; no deployment."
     }
   ]
 }
