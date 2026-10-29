@@ -86,6 +86,29 @@
       ],
       "uniqueness": "No obvious exact active site match in limited web search; older cancelled BRIEFSHEET trademark exists; no trademark clearance. Distinct from existing affiliate consent/UTM/offer-evaluation tools and immigration education sites.",
       "status": "11-page ZIP generated; 166 local links checked; Python and JS syntax pass; 11-URL production sitemap test pass; noindex preview restored. Browser interaction test blocked by administrator. SendSteed delivery/redirect untested; no verified domain or authorized commercial hosting; no deployment."
+    },
+    {
+      "brand": "BidTidy",
+      "slug": "bidtidy",
+      "concept": "Browser-only small paid-traffic test scenario calculator with expected click-to-qualified-lead-to-sale arithmetic, three downside scenarios, CSV export and precommitted stop-rule guides",
+      "primary_audience": "Cautious solo affiliate publishers evaluating limited-budget paid traffic tests before spending",
+      "date": "2026-10-28",
+      "pages": 12,
+      "source_package": "BidTidy_2026-10-28.zip",
+      "source_sha256": "247a16c30ed617be21a4729388c544569e6f50447484f27c083a660e0c39c04d",
+      "deployed": false,
+      "indexed": "unknown",
+      "sitemap_submitted": false,
+      "sendsteed_list": "131455",
+      "verified_referral": "https://leadsleap.com/?r=awanraheel0",
+      "verified_sources": [
+        "https://support.google.com/google-ads/answer/6270625",
+        "https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking",
+        "https://developers.google.com/search/docs/fundamentals/creating-helpful-content",
+        "https://developers.google.com/search/docs/crawling-indexing/sitemaps/build-sitemap"
+      ],
+      "uniqueness": "Distinct from ConsentRoute consent audits, SourceSail UTM attribution, Offerbraid offer comparisons, BriefSheet website briefs and immigration projects. No obvious exact BidTidy active marketing brand in preliminary search; not trademark clearance.",
+      "status": "12-page source ZIP built, Python/JS syntax and internal links validated, 12-URL production sitemap/canonicals tested. Headless browser visual check timed out. Preview noindex. No authorized commercial-permitted domain/host, SendSteed delivery or Search Console write access; not deployed."
     }
   ]
 }
