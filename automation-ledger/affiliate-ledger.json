@@ -62,6 +62,30 @@
       ],
       "uniqueness": "No exact Offerbraid web search match on 2026-10-28; not trademark clearance. Different audience task and tool from ConsentRoute Studio, SourceSail Lab, LeadG and existing traffic funnels.",
       "status": "12-page ZIP generated and static validated, JavaScript syntax checked, 12-URL production sitemap generator test passed. Browser visual test unavailable; SendSteed delivery untested. Noindex preview; commercial hosting, verified HTTPS domain, public contact, live form test and Search Console write authorization outstanding."
+    },
+    {
+      "brand": "BriefSheet",
+      "slug": "briefsheet",
+      "concept": "Browser-local website project brief generator with Markdown export, original scope/content/hiring/launch guides",
+      "primary_audience": "Small-business owners seeking website development or redesign who need a clear brief before contacting a provider",
+      "date": "2026-10-28",
+      "pages": 11,
+      "source_package": "BriefSheet_2026-10-28.zip",
+      "source_sha256": "4c6048d74e2cba7b14cdebfc36e9ccc02dca54e134d27242ebf0e3610f4179c7",
+      "github_manifest": "https://github.com/affiliaterepo/affiliate/blob/site/briefsheet-20261028-1802/sites/briefsheet/README.md",
+      "deployed": false,
+      "indexed": "unknown",
+      "sitemap_submitted": false,
+      "sendsteed_list": "131455",
+      "verified_referral": "https://leadsleap.com/?r=awanraheel0",
+      "verified_sources": [
+        "https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking",
+        "https://www.w3.org/WAI/tutorials/forms/labels/",
+        "https://developers.google.com/search/docs/fundamentals/creating-helpful-content",
+        "https://leadsleap.com/?r=awanraheel0"
+      ],
+      "uniqueness": "No obvious exact active site match in limited web search; older cancelled BRIEFSHEET trademark exists; no trademark clearance. Distinct from existing affiliate consent/UTM/offer-evaluation tools and immigration education sites.",
+      "status": "11-page ZIP generated; 166 local links checked; Python and JS syntax pass; 11-URL production sitemap test pass; noindex preview restored. Browser interaction test blocked by administrator. SendSteed delivery/redirect untested; no verified domain or authorized commercial hosting; no deployment."
     }
   ]
 }
