@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "track": "immigration",
-  "updated": "2026-10-28",
+  "updated": "2026-10-29",
   "entries": [
     {
       "brand": "PresenceLedger North",
@@ -88,7 +88,35 @@
         "https://www.canada.ca/en/immigration-refugees-citizenship/news/notices/responsibly-manage-parent-grandparent-program.html"
       ],
       "uniqueness": "No obvious exact SponsorSheet brand match in limited web search on 2026-10-28; not trademark clearance. Different from PresenceLedger North citizenship travel reconciliation, MorrowDock newcomer settlement, ProgramTrace study-program verification and affiliate site tools.",
-      "status": "13-page noindex preview ZIP created. 203 internal links, JS and Python syntax, 13 production sitemap/canonical URLs validated. Browser navigation blocked by administrator. SendSteed live submission untested. No verified domain/eligible host, no deployment, sitemap submission or confirmed indexing."
+      "status": "13-page noindex preview ZIP created. 203 internal links, JS and Python syntax, 13 production sitemap/canonical URLs validated. Browser navigation blocked by administrator. SendSteed live submission untested. No verified domain/eligible host, no deployment, sitemap submission or confirmed indexing.",
+      "aliases": [
+        "CanSpon"
+      ],
+      "rebrand_note": "CanSpon is a rebrand of SponsorSheet, not a separate site; Netlify production not verified."
+    },
+    {
+      "brand": "PermitNook",
+      "slug": "permitnook",
+      "concept": "Independent employer-specific Canadian work-permit job-offer evidence workbench with browser-only LMIA/LMIA-exempt question paths, TXT export, recruitment fee warnings and official worker rights",
+      "primary_audience": "Prospective foreign workers outside Canada assessing employer-specific job-offer documents and recruitment safety",
+      "date": "2026-10-29",
+      "pages": 13,
+      "source_package": "PermitNook_2026-10-29.zip",
+      "source_sha256": "b5cb2741e4be3f9130291e7230cc3434303b73127a5b4104f6560b08ed74c495",
+      "github_manifest": "https://github.com/affiliaterepo/affiliate/blob/site/permitnook-20261029-0300/sites/permitnook/README.md",
+      "deployed": false,
+      "indexed": "unknown",
+      "sitemap_submitted": false,
+      "sendsteed_list": "131455",
+      "verified_sources": [
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/permit-outside/forms-documents.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/guide-5487-applying-work-permit-outside-canada.html",
+        "https://www.canada.ca/en/employment-social-development/services/foreign-workers/protected-rights.html",
+        "https://www.canada.ca/en/employment-social-development/services/foreign-workers/report-abuse.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/admissibility-enforcement/consequences-unauthorized-work.html"
+      ],
+      "uniqueness": "No obvious exact PermitNook public name search match; compared with connected GitHub creation ledgers and two Vercel project inventories. Not trademark clearance. Different from citizenship, settlement, study and sponsorship tools.",
+      "status": "13-page ZIP created; 270 internal links and unique titles/descriptions validated; JS/Python syntax and 13 production canonical/sitemap URLs pass. Browser test blocked by administrator; no live SendSteed delivery test. No assigned authorized host/domain, no deployment, no Search Console submission; preview noindex."
     }
   ]
 }
