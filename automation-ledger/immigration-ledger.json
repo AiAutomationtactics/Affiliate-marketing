@@ -67,6 +67,28 @@
       ],
       "uniqueness": "No obvious exact-name search match found on 2026-10-28; not trademark clearance. Distinct from PresenceLedger North citizenship presence reconciliation and MorrowDock newcomer first-month settlement checklist.",
       "status": "17-page ZIP generated; 443 internal links checked, JS syntax and 17-URL production sitemap builder passed. Browser test blocked by runtime browser policy. Noindex preview. No authorized domain/host or public editorial email; SendSteed live delivery and Search Console write access unverified; no deployment."
+    },
+    {
+      "brand": "SponsorSheet",
+      "slug": "sponsorsheet",
+      "concept": "Independent spouse/partner/dependent-child family sponsorship evidence research, browser-only 12-step planner and TXT export",
+      "primary_audience": "Canadian citizens/permanent residents and family members worldwide researching spousal/partner/dependent-child sponsorship, distinct from citizenship, settlement and study-program projects",
+      "date": "2026-10-28",
+      "pages": 13,
+      "source_package": "SponsorSheet_2026-10-28.zip",
+      "source_sha256": "8b88df45a53120e566a15baf4cfd5e4b56476c51f7b83c3c10a07fdb97ffc52b",
+      "github_manifest": "https://github.com/affiliaterepo/affiliate/blob/site/sponsorsheet-20261028-2100/sites/sponsorsheet/README.md",
+      "deployed": false,
+      "indexed": "unknown",
+      "sitemap_submitted": false,
+      "sendsteed_list": "131455",
+      "verified_sources": [
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/family-sponsorship/spouse-partner-children/eligibility.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/guide-5289-sponsor-your-spouse-common-law-partner-conjugal-partner-dependent-child-complete-guide.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/news/notices/responsibly-manage-parent-grandparent-program.html"
+      ],
+      "uniqueness": "No obvious exact SponsorSheet brand match in limited web search on 2026-10-28; not trademark clearance. Different from PresenceLedger North citizenship travel reconciliation, MorrowDock newcomer settlement, ProgramTrace study-program verification and affiliate site tools.",
+      "status": "13-page noindex preview ZIP created. 203 internal links, JS and Python syntax, 13 production sitemap/canonical URLs validated. Browser navigation blocked by administrator. SendSteed live submission untested. No verified domain/eligible host, no deployment, sitemap submission or confirmed indexing."
     }
   ]
 }
